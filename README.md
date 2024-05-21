@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanket wakankar.
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning java j2ee and bootstrap,angular.
+- 🌱 I’m currently learning java j2ee and Spring Frameword,AWS.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 You can reach me on linkdin as sanket wakankar.
 
